@@ -1,1 +1,4 @@
 config.py
+bot.db
+bot.log
+__pycache__/
